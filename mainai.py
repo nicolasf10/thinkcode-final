@@ -7,6 +7,7 @@ import re
 import webbrowser
 import wikipedia
 import json
+import os
 # installing PyAudio is also necessary with 'pip install pyaudio'
 
 from mathOperations import math_speech
@@ -243,7 +244,6 @@ class AI:
                         return instruction
 
                 except Exception as error:
-                    print(error)
                     print("Please repeat.")
                     self.speak("Please repeat")
                     return "None"
@@ -455,9 +455,6 @@ class AI:
         except:
             print("Please try again.")
             self.speak("Please try again.")
-
-    def readNote(self, note):
-        pass
 
 """
 Example:
