@@ -1,0 +1,128 @@
+{
+    "hellos": {
+        "0" : "Hey there!",
+        "1" : "Good to see you too!",
+        "2" : "Hello!",
+        "3" : "Hello there!"
+    },
+    "goodbyes": {
+        "0" : "Goodbye!",
+        "1" : "See you later!",
+        "2" : "Bye bye!",
+        "3" : "Take it easy!",
+        "4" : "Take care!",
+        "5" : "Catch you later, bye!"
+    },
+    "pages": {
+        "w3schools" : "https://www.w3schools.com",
+        "youtube" : "https://www.youtube.com",
+        "github" : "https://github.com",
+        "stack overflow" : "https://stackoverflow.com",
+        "stackoverflow" : "https://stackoverflow.com",
+        "google" : "https://www.google.com/",
+        "git" : "https://git-scm.com",
+        "gitlab" : "https://git-scm.com",
+        "algo expert" : "https://www.algoexpert.io/",
+        "leetcode" : "https://leetcode.com/",
+        "codewars" : "https://www.codewars.com/",
+        "linux" : "https://www.linux.org"
+    },
+    "jokes": {
+        "0" : "There are 10 types of programmers, those who understand binary, and those who don't.",
+        "1" : {
+                "question" : "Why do Java developers wear glasses?",
+                "answer" : "Because they cannot see sharp."
+            },
+        "2" : {
+                "question" : "Whats the object-oriented way to become wealthy?",
+                "answer" : "Inheritance."
+            },
+        "3" : {
+                "question" : "Why are Assembly programmers always soaking wet?",
+                "answer" : "They work below C-level."
+            },
+        "4" : {
+                "question" : "What do cats and programmers have in common?",
+                "answer" : "When either one is unusually happy and excited, an appropriate question would be, 'did you find a bug?'"
+            },
+        "5" : {
+                "question" : "How did the programmer die in the shower?",
+                "answer" : "He read the shampoo bottle instructions: Lather. Rinse. Repeat."
+            },
+    
+        "6" : {
+                "question" : "What is the definition of algorithm?",
+                "answer" : "A word used by programmers when they do not want to explain what they did."
+            },
+        "7" : {
+                "question" : "What is a programmer's favourite hangout place?",
+                "answer" : "Foo bar."
+            },
+        "8" : {
+                "question" : "Why did the programmer quit his job?",
+                "answer" : "Because he didn't get arrays."
+            },
+        "9" : "3 Database SQL walked into a NoSQL bar. A little while later, they walked right out because they couldn't find a table."
+    },
+    "quiz_praise": {
+        "0": "Good job!",
+        "1": "Great!",
+        "2": "Spot on!",
+        "3": "Correct!",
+        "4": "Precise!"
+    },
+    "quiz_mistake": {
+        "0": "Not quite.",
+        "1": "Better luck next time.",
+        "2": "I'm sorry, incorrect.",
+        "3": "Incorrect.",
+        "4": "Wrong, but keep working on it."
+    },
+    "days": {
+        "1" : "first",
+        "2" : "second",
+        "3" : "third",
+        "4" : "fourth",
+        "5" : "fifth",
+        "6" : "sixth",
+        "7" : "seventh",
+        "8" : "eighth",
+        "9" : "ninth",
+        "10" : "tenth",
+        "11" : "eleventh",
+        "12" : "twelfth",
+        "13" : "thirteenth",
+        "14" : "fourteenth",
+        "15" : "fifteenth",
+        "16" : "sixteenth",
+        "17" : "seventeenth",
+        "18" : "eighteenth",
+        "19" : "nineteenth",
+        "20" : "twentieth",
+        "21" : "twenty-first",
+        "22" : "twenty-second",
+        "23" : "twenty-third",
+        "24" : "twenty-fourth",
+        "25" : "twenty-fifth",
+        "26" : "twenty-sixth",
+        "27" : "twenty-seventh",
+        "28" : "twenty-eighth",
+        "29" : "twenty-ninth",
+        "30" : "thirtieth",
+        "31" : "thirty-first"
+    },
+    "months": {
+        "1" : "January",
+        "2" : "February",
+        "3" : "March",
+        "4" : "April",
+        "5" : "May",
+        "6" : "June",
+        "7" : "July",
+        "8" : "August",
+        "9" : "September",
+        "10" : "October",
+        "11" : "November",
+        "12" : "December"
+    }
+}
