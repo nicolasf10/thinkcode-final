@@ -1,14 +1,14 @@
 # Thinkcode
 Thinkcode is a platform centered towards assisting programmers, more specifically,
 computer science students. It provides tools that will not only increase their
-productivity, such as quickly open a webpage directly on our software and a quick 
-Wi-Fi speed test, but also to improve their learning experience with our quizzing feature.
+productivity 🤓, such as quickly open a webpage 🖥 and even a quick 
+internet speed test 📶, but also to improve their learning experience with our quizzing feature.
 Using Natural Language Processing, our AI creates relevant questions based on a topic provided
-by the user. Thinkcode is the solution for innovative students and programmers.
+by the user 📝. Thinkcode is the solution for innovative students and programmers.
 
 ## How to run
 Download the contents of this repository and first run `pip install requirements.txt`.
-Then, if not already installed, run `pip install pyaudio` and also `python3 -m spacy download en_core_web_sm`.
+Then, run `python3 -m spacy download en_core_web_sm`.
 
 After downloading all the necessary packages, run `python app.py`. 
 
